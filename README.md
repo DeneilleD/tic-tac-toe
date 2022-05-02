@@ -15,4 +15,4 @@ This project embodies a user friendly tic-tac-toe game, allowing 2 users to comp
 I utilized my skills in javaScript, HTML and CSS to style this game in way that satisfied OOP. In doing this, I utilized Abstraction ( of the four pillars) by condensing the entire game into a single object and adding multiple methods and Event Listeners to asisst with user interaction.
 
 ## Lessons Learned:
-I learned how to take an HTML element from the document and turning them into an array. In doing this I was able to compare the "winning-array combinations" with the user's moves.
+I learned how to take an HTML element from the document and turn them into an array. In doing this I was able to compare the "winning-array combinations" with the user's moves.
