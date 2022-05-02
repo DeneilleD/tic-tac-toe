@@ -4,7 +4,7 @@
 
 This project embodies a user friendly tic-tac-toe game, allowing 2 users to compete against one another until someone wins or there is a draw!
 
-**Link to project: ** 
+**Link to project: https://ddtictactoe.netlify.app/** 
 
 ![alt tag](pic.PNG)
 
